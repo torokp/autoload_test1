@@ -1,5 +1,5 @@
 {
-    "name": "torokp/autoload_test",
+    "name": "torokp/autoload_test_psr0",
     "type": "library",
     "authors": [
         {
