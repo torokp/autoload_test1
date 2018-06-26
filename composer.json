@@ -1,0 +1,14 @@
+{
+    "name": "torokp/autoload_test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Peter Torok",
+            "email": "torokp@progterv.info"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "DoesThisLoad": "" }
+    },
+    "require": {}
+}
